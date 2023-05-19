@@ -1,8 +1,5 @@
 # M01W01 The Dev Workflow
 
-## Github repo
-https://github.com/Masavi/the-dev-workflow
-
 ## Topics to cover
 
 - Curriculum overview
@@ -132,3 +129,13 @@ $ git push -u origin main
 ```
 
 And that's it! You should now be able to visit your repository directly in Github's website.
+
+## Extra content: How to run VS Code from the terminal?
+
+To run vs code from the terminal you can follow this guide:
+
+MacOs/Linux (under the section "launch from the command line")
+https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command.
+
+Windows:
+https://stackoverflow.com/questions/29963617/how-to-call-vs-code-editor-from-terminal-command-line
